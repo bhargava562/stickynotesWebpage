@@ -17,7 +17,7 @@ This project is a dynamic and interactive Sticky Notes web application that allo
 
 ## Demo
 
-Experience the Sticky Notes application live: [https://bhargava562.github.io/stickynotesWebpage/](https://bhargava562.github.io/stickynotesWebpage/)
+Experience the Sticky Notes application live: [![View Live Demo](https://img.shields.io/badge/View%20Live%20Demo-blue?style=for-the-badge&logo=github)](https://bhargava562.github.io/stickynotesWebpage/)
 
 ## How to Use
 
@@ -46,4 +46,21 @@ You only need a modern web browser to view and interact with this project.
     ```
 3.  Open `index.html` in your preferred web browser.
 
-## Project Structure
+## Connect with me
+
+I've shared more about this project on LinkedIn. Check out the post here: [https://www.linkedin.com/posts/bhargava-a-a1426b325_webdevelopment-javascript-css-activity-7284566949974441984-IONc?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFIWHfABJ7ArzK3RWbxBhkIYftjhgN9Sfa0](https://www.linkedin.com/posts/bhargava-a-a1426b325_webdevelopment-javascript-css-activity-7284566949974441984-IONc?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFIWHfABJ7ArzK3RWbxBhkIYftjhgN9Sfa0)
+
+## License
+
+Distributed under the MIT License. See `LICENSE` for more information.
+
+## Acknowledgements
+
+* [Any libraries/resources you used]
+* [Inspiration]
+
+## Contact
+
+Your Name - bhargava.anandakumar@gmail.com
+
+Project Link: [https://github.com/bhargava562/stickynotesWebpage](https://github.com/bhargava562/stickynotesWebpage)

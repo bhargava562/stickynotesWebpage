@@ -48,7 +48,7 @@ You only need a modern web browser to view and interact with this project.
 
 ## Connect with me
 
-I've shared more about this project on LinkedIn. Check out the post here: [![View in Linkedin](https://img.shields.io/badge/View%20Live%20Demo-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/posts/bhargava-a-a1426b325_webdevelopment-javascript-css-activity-7284566949974441984-IONc?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFIWHfABJ7ArzK3RWbxBhkIYftjhgN9Sfa0)
+I've shared more about this project on LinkedIn. Check out the post here: [![View Linkedin Post](https://img.shields.io/badge/View%20LinkedIn%20Post-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/posts/bhargava-a-a1426b325_webdevelopment-javascript-css-activity-7284566949974441984-IONc?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFIWHfABJ7ArzK3RWbxBhkIYftjhgN9Sfa0)
 
 ## License
 
